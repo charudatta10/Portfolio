@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/charudatta10/myblog/fun.html</loc>
+         <lastmod>2024-09-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/charudatta10/myblog/gallery.html</loc>
          <lastmod>2024-09-17</lastmod>
          <changefreq>daily</changefreq>
