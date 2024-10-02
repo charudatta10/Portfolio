@@ -76,6 +76,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/charudatta10/myblog/projects/forum.html</loc>
+         <lastmod>2024-10-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/charudatta10/myblog/projects/foss.html</loc>
          <lastmod>2024-10-02</lastmod>
          <changefreq>daily</changefreq>
