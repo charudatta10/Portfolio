@@ -12,7 +12,7 @@
         <h1 class="text-2xl font-bold mb-4">Comments</h1>
         <div class="mb-4">
             <textarea x-model="newComment" class="w-full p-2 border rounded" placeholder="Add a comment..."></textarea>
-            <button @click="addComment" class="mt-2 px-4 py-2 bg-blue-500 text-white rounded">Submit</button>
+            <button @click="addComment" class="mt-2 px-4 py-2 bg-purple-700 text-white rounded">Submit</button>
         </div>
         <ul>
             <template x-for="comment in comments" :key="comment.id">

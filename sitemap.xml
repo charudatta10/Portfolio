@@ -2,97 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/charudatta10/myblog/index.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/contact.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/blog/index.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/fun.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/blog/2024/08/27/digital-note-taking.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/gallery.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/blog/2024/08/27/large-language-models-llms-and-crewai-integration.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/articles/index.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/md/about.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/articles/2024/08/27/digital-note-taking.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/md/academic.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/articles/2024/08/27/large-language-models-llms-and-crewai-integration.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/md/article.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/profile/about.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/md/autodidac.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/profile/autodidac.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/md/contact.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/profile/education.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/md/education.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/profile/experience.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/md/experience.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/profile/publications.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/md/forum.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/profile/skills.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/md/foss.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/projects/academic.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/md/fun.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/projects/blog.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/md/gallery.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/projects/forum.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/md/publication.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/projects/foss.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/md/skills.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/projects/wiki.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/md/wiki.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/charudatta10/myblog/articles/page/2/index.html</loc>
-         <lastmod>2024-10-04</lastmod>
+         <loc>https://github.com/charudatta10/myblog/blog/page/2/index.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
